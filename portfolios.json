@@ -30,6 +30,7 @@
         "id": 6,
         "image": "https://i.ibb.co/68kPWYL/7.png",
         "name": "Grocery Store",
+        "description":"This is a practice website created using only HTML, CSS and JavaScript. This website includes products.",
         "tools": "HTML, CSS, Javascript, Tailwind",
         "code": "https://github.com/Developer-Barsha/grocery-practice",
         "link": "https://practice-grocery-store.netlify.app/"
@@ -38,6 +39,7 @@
         "id": 5,
         "image": "https://i.ibb.co/MfG8g7d/6.png",
         "name": "Bluewaves Hotel",
+        "description":"This is a practice website created using only HTML, CSS and Bootstrap. This website is about hotel.",
         "tools": "HTML, CSS, Bootstrap",
         "code": "https://github.com/Developer-Barsha/bluewaves-plaza-hotel",
         "link": "https://bluewaves-plaza-hotel.netlify.app/"
@@ -46,6 +48,7 @@
         "id": 9,
         "image": "https://i.ibb.co/SnL7HPS/8.png",
         "name": "Food Restaurant",
+        "description":"This is a practice website created using only HTML, CSS and Bootstrap. This website is an online reataurant website where users can see foods to order.",
         "tools": "HTML, CSS, Bootstrap",
         "code": "https://github.com/Developer-Barsha/restaurant-practice",
         "link": "https://developer-barsha.github.io/restaurant-practice/"
@@ -54,6 +57,7 @@
         "id": 10,
         "image": "https://i.ibb.co/S5RNktp/9.png",
         "name": "Penguin Fashion",
+        "description":"This is a practice website created using only HTML, CSS and Bootstrap. This website is an online cloth store where users can see cloths to order.",
         "tools": "HTML, CSS, Bootstrap",
         "code": "https://github.com/Developer-Barsha/penguin-fashion",
         "link": "https://developer-barsha.github.io/penguin-fashion/"
@@ -62,6 +66,7 @@
         "id": 3,
         "image": "https://i.ibb.co/qBX4fV4/4.png",
         "name": "Digital Clock",
+        "description":"This is a practice clock created using only HTML, CSS and JavaScript. This digital clock will show you real time based on your location.",
         "tools": "HTML, CSS, JavaScript",
         "code": "https://github.com/Developer-Barsha/digital-clock",
         "link": "https://developer-barsha.github.io/digital-clock/"
@@ -70,7 +75,8 @@
         "id": 4,
         "image": "https://i.ibb.co/gmNwydg/2.png",
         "name": "Fruits Corner",
-        "tools": "React, CSS, React Router, Tailwind, JWT",
+        "description":"Warehouse management website where users can manage foods. Users can add, delete, update. This website is made using React, Tailwind, Css, Toastify, Heroku, MongoDB and font awesome icons.",
+        "tools": "React, CSS, React Router, Tailwind, JWT, MongoDB",
         "server": "https://github.com/Developer-Barsha/fruits-corner-server",
         "client": "https://github.com/Developer-Barsha/fruits-corner-client",
         "link": "https://fruits-corner.netlify.app/"
