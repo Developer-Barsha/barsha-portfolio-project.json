@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/8Bw6z4V/1.png",
+        "name": "Demo Portfolio",
+        "tools": "HTML, CSS, Javascript",
+        "description":"This is a demo portfolio website created using only HTML, CSS and JavaScript. This is a single page website. This website includes some animation, information about me, socail links, some projects of mine, contact me form.",
+        "code": "https://github.com/Developer-Barsha/demo-portfolio",
+        "link": "https://developer-barsha.netlify.app/"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/nPdMbnt/3.png",
+        "name": "Red Onion",
+        "description":"An online restaurant website where users can buy foods. Users can add to cart and checkout. Users can not checkout until they login. Home navigator, cart implemented. This website is made using React, Tailwind, Css, Toastify and font awesome icons.",
+        "tools": "React, CSS, React Router, Bootstrap",
+        "code": "https://github.com/Developer-Barsha/red-onion-restaurant",
+        "link": "https://red-onion-resturant.netlify.app/"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/zXBZyK4/5.png",
+        "name": "Dark Mode",
+        "description":"This is a practice website of Starbuck created using only HTML, CSS and JavaScript. This is a single page website. This website includes dark mode and light mode.",
+        "tools": "HTML, CSS, Javascript",
+        "code": "https://github.com/Developer-Barsha/dark-practice",
+        "link": "https://developer-barsha.github.io/dark-mode-practice/"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/68kPWYL/7.png",
+        "name": "Grocery Store",
+        "tools": "HTML, CSS, Javascript, Tailwind",
+        "code": "https://github.com/Developer-Barsha/grocery-practice",
+        "link": "https://practice-grocery-store.netlify.app/"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/MfG8g7d/6.png",
+        "name": "Bluewaves Hotel",
+        "tools": "HTML, CSS, Bootstrap",
+        "code": "https://github.com/Developer-Barsha/bluewaves-plaza-hotel",
+        "link": "https://bluewaves-plaza-hotel.netlify.app/"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/SnL7HPS/8.png",
+        "name": "Food Restaurant",
+        "tools": "HTML, CSS, Bootstrap",
+        "code": "https://github.com/Developer-Barsha/restaurant-practice",
+        "link": "https://developer-barsha.github.io/restaurant-practice/"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/S5RNktp/9.png",
+        "name": "Penguin Fashion",
+        "tools": "HTML, CSS, Bootstrap",
+        "code": "https://github.com/Developer-Barsha/penguin-fashion",
+        "link": "https://developer-barsha.github.io/penguin-fashion/"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/qBX4fV4/4.png",
+        "name": "Digital Clock",
+        "tools": "HTML, CSS, JavaScript",
+        "code": "https://github.com/Developer-Barsha/digital-clock",
+        "link": "https://developer-barsha.github.io/digital-clock/"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/gmNwydg/2.png",
+        "name": "Fruits Corner",
+        "tools": "React, CSS, React Router, Tailwind, JWT",
+        "server": "https://github.com/Developer-Barsha/fruits-corner-server",
+        "client": "https://github.com/Developer-Barsha/fruits-corner-client",
+        "link": "https://fruits-corner.netlify.app/"
+    }
+]
